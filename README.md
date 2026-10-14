@@ -41,6 +41,4 @@ The test vectors function checks the results against values in Appendix C for AE
 
 - Padding was omitted to keep the implementation simple. Because AES operates on blocks of 16 bytes, the program requires the input to by exactly 16 bytes long. This is something that could be worked on for further improvement of functionality.
 
-- Python was chosen due to its simplicity and 
-
 
